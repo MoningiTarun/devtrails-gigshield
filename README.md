@@ -179,3 +179,15 @@ GigShield aims to make insurance smarter, faster, and more accessible for India�
 ---
 
 ##  Repository Structure
+
+devtrails-gigshield/
+│── README.md
+│── frontend/
+│   │── src/
+│   │── public/
+│   │── package.json
+│── docs/
+│   │── screenshots/
+│   │── demo-notes.md
+
+This repository contains the Phase 1 prototype and documentation for the GigShield project. The frontend folder will hold the basic user flow prototype, while the docs folder will contain supporting screenshots and demo notes.
